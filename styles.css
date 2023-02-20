@@ -1,3 +1,8 @@
+body {
+  background-color: beige;
+}
+
+
 .main-img,.heading,.toc {
   text-align: center;
 }

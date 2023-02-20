@@ -1,0 +1,18 @@
+.main-img,.heading,.toc {
+  text-align: center;
+}
+
+.main-img img {
+  height: auto;
+  width: 600px;
+}
+img {
+  height: auto;
+  width: 400px;
+}
+
+.heading.subsection {
+  color: aqua;
+  font-weight: 700;
+  text-align: left;
+}
